@@ -25,5 +25,5 @@ A versatile, hardworking individual, driven to meet or exceed a company's expect
 
 ### 📊 Stats
 
-| <a href="https://github.com/asvarpython/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asvarpython&show_icons=true&theme=github_dark&hide_border=true" alt="Asvar's github stats" /></a> | <a href="https://github.com/rahulr001/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asvarpython&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| <a href="https://github.com/asvarpython/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asvarpython&show_icons=true&theme=github_light&hide_border=true" alt="Asvar's github stats" /></a> | <a href="https://github.com/rahulr001/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asvarpython&layout=compact&theme=github_light&hide_border=true" /></a> |
 | ------------- | ------------- |

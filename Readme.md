@@ -71,8 +71,8 @@ My experience includes:
 
 <p align="center">
   <a href="https://github.com/asvarpython">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asvarpython&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asvarpython&layout=compact&langs_count=8&theme=github_dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=asvarpython&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asvarpython&layout=compact&langs_count=8&theme=github_dark"/>
   </a>
 </p>
 

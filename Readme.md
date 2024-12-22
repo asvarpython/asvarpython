@@ -1,10 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Asvar Ahamed</h1> <h3 align="center">Full Stack Developer | Data Scientist 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asvarpython&label=Profile%20views&color=0e75b6&style=flat" alt="asvarpython" /> </p>
+
 
 ### 👨‍💻 About Me
-A versatile professional combining expertise in full-stack development and data science. I specialize in creating robust web applications, developing data-driven solutions, and extracting meaningful insights from complex datasets. My experience includes:
+A versatile professional combining expertise in full-stack development and data science. I specialize in creating robust web applications, developing data-driven solutions, and extracting meaningful insights from complex datasets. 
+
+My experience includes:
 
 - 🔭 Developing scalable applications with **Python**, **Django**, and **React**
 - 📊 Implementing machine learning models and data analysis solutions

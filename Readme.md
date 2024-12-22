@@ -18,7 +18,7 @@ My experience includes:
 
 ### 🛠️ Technical Skills
 
-<details>
+<details open>
 <summary>Languages</summary>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +29,7 @@ My experience includes:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary>Data Science & ML</summary>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -39,7 +39,7 @@ My experience includes:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary>Web Development</summary>
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -48,7 +48,7 @@ My experience includes:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary>Databases & Cloud</summary>
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -57,7 +57,7 @@ My experience includes:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary>Tools & Technologies</summary>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

@@ -76,9 +76,6 @@ My experience includes:
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asvarpython&theme=github-dark" alt="asvarpython" />
-</p>
 
 
 ### 🤝 Connect with me

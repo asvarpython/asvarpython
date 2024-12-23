@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Asvar Ahamed</h1> <h3 align="center">Full Stack Developer | Data Scientist 🚀</h3>
 
 
-
 ### 👨‍💻 About Me
 A versatile professional combining expertise in full-stack development and data science. I specialize in creating robust web applications, developing data-driven solutions, and extracting meaningful insights from complex datasets. 
 
